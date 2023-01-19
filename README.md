@@ -2,4 +2,9 @@
 
 frequent update will happen.
 
-Do ⭐ if you find it useful .Thanks
+## 🧮 Like It? Then why to wait😃
+- Fork the repository
+- Clone your forked repository using terminal or gitbash.
+- Make changes to the cloned repository
+- Add, Commit and Push
+- Then in Github, in your cloned repository find the option to make a pull request
