@@ -1,6 +1,6 @@
-# This repository will contain all the content and resource that I gone through. 
+# This repository will contain all the content and resource that I gone through while mentoring on topic machine learning.
 
-frequent update will happen.
+
 
 ## 🧮 Like It? Then why to wait😃
 - Fork the repository
