@@ -1,6 +1,6 @@
 # This repository will contain all the content and resource that I gone through while mentoring on topic machine learning.
 
-![eduhub mentor](https://user-images.githubusercontent.com/90152799/228632636-e1e276c7-bddd-429c-9294-9b20aefa591c.jpg)
+![eduhub mentor (2)](https://user-images.githubusercontent.com/90152799/228633294-f4a316fa-9857-40fc-8452-5ed0273985a6.jpg)
 
 
 ## 🧮 Like It? Then why to wait😃
